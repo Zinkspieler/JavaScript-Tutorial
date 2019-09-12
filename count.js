@@ -27,5 +27,5 @@ for (let i = 0; i < words.length; i++) {
   }
 }
 
-uniques.sort();
+
 console.log(uniques)
